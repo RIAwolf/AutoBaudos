@@ -1,0 +1,4 @@
+modelis 1|marke 1|aprasymas 1|190
+modelis 2|marke 2|aprasymas 2|191
+modelis 3|marke 3|aprasymas 3|192
+modelis 4|marke 4|aprasymas 4|193
